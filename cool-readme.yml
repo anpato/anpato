@@ -1,0 +1,13 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: anpato
+show: [summary, languages, contributions, weekly, streaks, about]
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: github
+  background: none
+cards:
+  about:
+    headline: "[C[D"
